@@ -1,0 +1,30 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Fl node 5f19f7b0b9e02 fl node content **/
+.fl-node-5f19f7b0b9e02 > .fl-node-content {
+	
+}
+
+/** Geral >> Fl node 5f19f7b0b9e02 fl node content _2 **/
+.fl-node-5f19f7b0b9e02 > .fl-node-content {
+	
+}
+
+/** Geral >> Img1 fl photo img **/
+#img1 .fl-photo-img {
+	margin-left: 0px !important;
+}
+
+/** Geral >> Fl node 5f1ae9c08af43 fl node content **/
+.fl-node-5f1ae9c08af43 > .fl-node-content {
+	min-height: auto !important;
+}
+
+/** Geral >> Row1 fl row content wrap **/
+#row1 > .fl-row-content-wrap {
+	position: static !important;
+}
+
